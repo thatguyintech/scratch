@@ -1,0 +1,31 @@
+#!/usr/bin/env ruby
+
+class MegaGreeter
+    # Create the object
+    # Say hi to everybody
+    # Say bye to everybody
+
+
+
+
+
+
+    if __FILE__ == $0
+        mg = MegaGreete.new
+        mg.say_hi
+        mg.say_bye
+        
+        # Change name to be "Zeke" 
+        mg = MegaGreete.new
+        mg.say_hi
+        mg.say_bye
+       
+        # Change name to be "array of commets" 
+        mg = MegaGreete.new
+        mg.say_hi
+        mg.say_bye
+       
+        # Change name to an array of names. 
+        mg = MegaGreete.new
+        mg.say_hi
+        mg.say_bye
